@@ -2,18 +2,16 @@
 This repository is for practising the GitHub Flow
 Check out my exercises I've done so far!
 
-
-
-<!DOCTYPE html>
-  <html>
-    <head>
-      <title>Buttons</title>
-      <style>
-        .yellow-button{
-        background-color: yellow;
-        }
-
-        .orange-button{
+        <DOCTYPE html>
+          <html>
+            <head>
+            <title>Buttons</title>
+            <style>
+            .yellow-button{
+            background-color: yellow;
+            }
+            
+            .orange-button{
         background-color: orange;
         }
       </style>
